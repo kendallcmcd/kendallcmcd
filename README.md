@@ -1,3 +1,3 @@
 - Hi I'm @kendallcmcd
-- I'm currently an undergrad ('25)
-- I can be reached at kendallcmcd@gmail.com
+- I'm currently an undergrad ('25) studying Comp Sci and Philosophy 
+- Email : kendallcmcd@gmail.com
