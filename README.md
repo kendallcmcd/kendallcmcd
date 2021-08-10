@@ -1,3 +1,3 @@
-- Hi I'm @kendallcmcd
-- I'm currently an undergrad ('25) studying Comp Sci and Philosophy 
+- Hi! I'm @kendallcmcd
+- I'm currently an undergrad ('25) at Wesleyan University
 - Email : kendallcmcd@gmail.com
