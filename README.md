@@ -1,3 +1,2 @@
-- Hi! I'm @kendallcmcd
-- I'm currently an undergrad ('25) at Wesleyan University
-- Email : kendallcmcd@gmail.com
+- '25 at Wesleyan University
+- Email : kmcdermott@wesleyan.edu
